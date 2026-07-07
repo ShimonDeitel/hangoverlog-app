@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "11000001",
+      "localizations": [
+        {
+          "description": "Weekly drink-total trend and symptom correlation",
+          "displayName": "Hangover Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.hangoverlog.pro",
+      "referenceName": "Hangover Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
